@@ -1,9 +1,6 @@
 package interpolation
 
-object StringInterpolation extends App {
-  val hoge = "hoge"
-
-  println(s"Hello $hoge!")
+object StringInterpolation_02 extends App {
 
   println(s"${1 + 1}")
 
