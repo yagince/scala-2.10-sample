@@ -2,3 +2,6 @@ target
 
 #for idea
 .idea*
+
+# jad
+*.jad*
